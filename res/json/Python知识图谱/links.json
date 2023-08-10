@@ -1,0 +1,167 @@
+[
+    {
+        "source": 0,
+        "target": 1,
+        "relation": ""
+    },
+    {
+        "source": 0,
+        "target": 2,
+        "relation": ""
+    },
+    {
+        "source": 0,
+        "target": 3,
+        "relation": ""
+    },
+    {
+        "source": 0,
+        "target": 4,
+        "relation": ""
+    },
+    {
+        "source": 0,
+        "target": 5,
+        "relation": ""
+    },
+    {
+        "source": 0,
+        "target": 6,
+        "relation": ""
+    },
+    {
+        "source": 0,
+        "target": 7,
+        "relation": ""
+    },
+    {
+        "source": 1,
+        "target": 8,
+        "relation": ""
+    },
+    {
+        "source": 1,
+        "target": 9,
+        "relation": ""
+    },
+    {
+        "source": 1,
+        "target": 10,
+        "relation": ""
+    },
+    {
+        "source": 1,
+        "target": 11,
+        "relation": ""
+    },
+    {
+        "source": 1,
+        "target": 12,
+        "relation": ""
+    },
+    {
+        "source": 1,
+        "target": 13,
+        "relation": ""
+    },
+    {
+        "source": 2,
+        "target": 14,
+        "relation": ""
+    },
+    {
+        "source": 2,
+        "target": 15,
+        "relation": ""
+    },
+    {
+        "source": 2,
+        "target": 16,
+        "relation": ""
+    },
+    {
+        "source": 2,
+        "target": 17,
+        "relation": ""
+    },
+    {
+        "source": 3,
+        "target": 18,
+        "relation": ""
+    },
+    {
+        "source": 3,
+        "target": 19,
+        "relation": ""
+    },
+    {
+        "source": 3,
+        "target": 20,
+        "relation": ""
+    },
+    {
+        "source": 3,
+        "target": 21,
+        "relation": ""
+    },
+    {
+        "source": 4,
+        "target": 22,
+        "relation": ""
+    },
+    {
+        "source": 4,
+        "target": 23,
+        "relation": ""
+    },
+    {
+        "source": 4,
+        "target": 24,
+        "relation": ""
+    },
+    {
+        "source": 5,
+        "target": 25,
+        "relation": ""
+    },
+    {
+        "source": 5,
+        "target": 26,
+        "relation": ""
+    },
+    {
+        "source": 5,
+        "target": 27,
+        "relation": ""
+    },
+    {
+        "source": 6,
+        "target": 28,
+        "relation": ""
+    },
+    {
+        "source": 6,
+        "target": 29,
+        "relation": ""
+    },
+    {
+        "source": 6,
+        "target": 30,
+        "relation": ""
+    },
+    {
+        "source": 7,
+        "target": 31,
+        "relation": ""
+    },
+    {
+        "source": 7,
+        "target": 32,
+        "relation": ""
+    },
+    {
+        "source": 7,
+        "target": 33,
+        "relation": ""
+    }
+]
